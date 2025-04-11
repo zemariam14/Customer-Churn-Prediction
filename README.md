@@ -69,7 +69,21 @@ Each model is trained on scaled features and evaluated using confusion matrix, a
 - matplotlib, seaborn
 - scikit-learn
 
----
+## Requirements
+
+To run this project, you need the following Python libraries installed:
+
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+
+You can install them all at once using:
+
+```bash
+pip install -r requirements.txt
+
 
 
 
